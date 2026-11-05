@@ -1,4 +1,4 @@
-# Speed Camera Warning
+# SpeedWarn
 
 **An unobtrusive overlay that signals if you are driving on a road with speed cameras.**
 
