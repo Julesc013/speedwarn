@@ -3,11 +3,11 @@
 **An unobtrusive overlay that signals if you are driving on a road with speed cameras.**
 
 *Speed Camera Warning* overlays a small coloured circle onto your screen which changes colour depending on which types of camera are present on the road you are driving on.
-- **Green:** No camera certificates.
-- **Amber:** Fixed cameras only.
-- **Red:** Fixed and/or mobile cameras.
+- **Green:** No mobile camera certificates, no fixed cameras.
+- **Yellow:** Unsure if mobile or fixed cameras present.
+- **Amber:** Fixed cameras only, no mobile cameras.
+- **Red:** Fixed cameras, and/or mobile cameras.
 - **Grey:** No signal or GPS uncertain.
-- **Yellow:** Missing certificate data.
 
 When you turn onto a road with a mobile camera certificate, the application will audibly beep/alarm to let you know.
 
