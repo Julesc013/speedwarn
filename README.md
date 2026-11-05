@@ -2,8 +2,6 @@
 
 **An unobtrusive overlay that signals if you are driving on a road with speed cameras.**
 
-## What is it?
-
 *Speed Camera Warning* overlays a small coloured circle onto your screen which changes colour depending on which types of camera are present on the road you are driving on.
 - **Green:** No camera certificates.
 - **Amber:** Fixed cameras only.
